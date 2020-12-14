@@ -23,3 +23,5 @@ UserSchema.methods.comparePassword = async function (password) {
 
 
 module.exports = model('usersdata',UserSchema)
+
+//daniel carrillo es el programador de este codigo
